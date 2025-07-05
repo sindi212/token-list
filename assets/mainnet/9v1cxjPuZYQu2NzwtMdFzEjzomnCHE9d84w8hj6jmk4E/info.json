@@ -1,0 +1,13 @@
+{
+  "name": "WrappedUSDT",
+  "symbol": "wUSDT",
+  "description": "Wrapped USDT SPL Token",
+  "image": "https://raw.githubusercontent.com/sindi212/token-list/main/assets/mainnet/9v1cxjPuZYQu2NzwtMdFzEjzomnCHE9d84w8hj6jmk4E/logo.png",
+  "extensions": {
+    "website": "https://explorer.solana.com/address/9v1cxjPuZYQu2NzwtMdFzEjzomnCHE9d84w8hj6jmk4E",
+    "explorer": "https://explorer.solana.com/address/9v1cxjPuZYQu2NzwtMdFzEjzomnCHE9d84w8hj6jmk4E"
+  },
+  "tags": ["stablecoin", "wrapped", "usdt"],
+  "decimals": 18,
+  "mint": "9v1cxjPuZYQu2NzwtMdFzEjzomnCHE9d84w8hj6jmk4E"
+}
